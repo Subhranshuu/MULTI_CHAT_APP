@@ -2,7 +2,7 @@
 
 A multi-user multi-room chat application built with nodejs and socket.io.
 
-> For a Reactjs version of the app with advanced features such as user avatar, emoji selector and persistent connection check out <a href="https://github.com/rajmasha/chit-chat" target="_blank">chit-chat</a>
+> For a Reactjs version of the app with advanced features such as user avatar, emoji selector and persistent connection check out <a href="https://github.com/Subhranshuu/MULTI_CHAT_APP">chatapp</a>
 
 <img src="/public/chat-app.png" />
 
