@@ -6,7 +6,7 @@ A multi-user multi-room chat application built with nodejs and socket.io.
 
 <img src="/public/chat-app.png" />
 
-Inspired from - http://psitsmike.com/2011/10/node-js-and-socket-io-multiroom-chat-tutorial/
+
 
 ## Features:
 
